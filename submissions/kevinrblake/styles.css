@@ -1,0 +1,32 @@
+html
+{
+    font-family: serif;
+    background-color: #66ff66;
+}
+img
+{
+    margin-left: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 25%;
+    height: 25%;
+}
+article{
+    margin-left: 70px;
+    margin-right: 70px;
+}
+#about
+{
+    color: green;
+}
+.topbottom
+{
+
+    color: purple;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+h1
+{
+    text-align:center;
+}
